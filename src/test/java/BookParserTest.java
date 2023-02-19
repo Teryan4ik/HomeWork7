@@ -30,4 +30,12 @@ public class BookParserTest {
         List<String> result = bookParser.topWords(words, amount);
         Assert.assertEquals(expected, result);
     }
+
+    @Test
+    public void uniqWordsTest() {
+        BookParser bookParser = new BookParser();
+        List<String> words = List.of("Hello", "iPhone", "Notebook", "cup", "cup", "Hello", "cup", "cup", "Notebook");
+        int uniqWords = bookParser.uniqWords(words);
+        Assert.assertEquals(4, uniqWords);
+    }
 }
