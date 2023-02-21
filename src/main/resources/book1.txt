@@ -1,4 +1,4 @@
-The Boy Who Lived
+The Boy Who Lived:
 Mr and Mrs Dursley, of number four, Privet Drive, were proud to
 say that they were perfectly normal, thank you very much. They
 were the last people you’d expect to be involved in anything
@@ -27,3 +27,4 @@ want Dudley mixing with a child like that.
 When Mr and Mrs Dursley woke up on the dull, grey Tuesday
 our story starts, there was nothing about the cloudy sky outside to
 suggest that strange and mysterious things would soon be happening all over the country.
+
